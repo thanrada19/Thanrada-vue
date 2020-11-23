@@ -1,2 +1,2 @@
-# Thanrada-vue
+# thanrada-js
 Created with CodeSandbox
